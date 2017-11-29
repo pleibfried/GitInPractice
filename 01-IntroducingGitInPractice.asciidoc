@@ -2,6 +2,9 @@ This is the file GitInPractice.asciidoc
 It does not have any use except that it has some contents that can be changed.
 The contents itself is bogus and irrelevant.
 
+== Chapter 1 ==
+This is the first chapter, containing some text or other - it doesn't really matter, you know.
+
 == Chapter 2 ==
 Here we begin another chapter of ultimately pointless drivel :-)
 
