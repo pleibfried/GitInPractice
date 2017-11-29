@@ -8,3 +8,6 @@ Here we begin another chapter of ultimately pointless drivel :-)
 == Chapter 3 ==
 This chapter is only for demo purposes (as are all the others, by the way)
 
+== Chapter 4 ==
+Another so-called chapter, you get the idea ...
+
