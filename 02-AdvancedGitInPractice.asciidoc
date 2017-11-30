@@ -1,5 +1,6 @@
 == Chapter 3 ==
 This chapter is only for demo purposes (as are all the others, by the way)
+Dees line has been inserted on the v0.1-release branch. Consider it a bugfix or something like that.
 
 == Chapter 4 ==
 Another so-called chapter, you get the idea ...
