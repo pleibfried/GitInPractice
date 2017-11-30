@@ -1,3 +1,5 @@
 This is the file GitInPractice.asciidoc
 It does not have any use except that it has some contents that can be changed.
 The contents itself is bogus and irrelevant.
+
+All that being said, you may still consider this the 'preface' of a book.
